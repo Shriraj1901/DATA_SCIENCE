@@ -21,3 +21,18 @@ python --version
 
 Working on more things
 done with the notebook and this assingment
+
+# 🧠 Jupyter Notebook Setup & Interface Understanding
+
+This repository documents the process of launching Jupyter Notebook, understanding its interface, navigating directories, and creating notebooks correctly.
+
+---
+
+## 🔹 Launching Jupyter Notebook
+
+Jupyter Notebook was launched from the terminal.
+
+### ✔ Command
+
+```bash
+PS C:\Users\Shree\OneDrive\Desktop\data-science-setup> jupyter notebook
