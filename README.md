@@ -36,3 +36,4 @@ Jupyter Notebook was launched from the terminal.
 
 ```bash
 PS C:\Users\Shree\OneDrive\Desktop\data-science-setup> jupyter notebook
+
