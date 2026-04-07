@@ -20,3 +20,4 @@ Python is installed and verified using the command line.
 python --version
 
 Working on more things
+done with the notebook
